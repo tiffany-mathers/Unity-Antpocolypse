@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antpocalypse 2D", "Antpocalypse 2D.csproj", "{4E6BD30A-39CA-29C5-AC70-A28A0EB1BAD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antpocalypse 2D.Editor", "Antpocalypse 2D.Editor.csproj", "{9B74F628-D2E9-8E8A-2A0F-7585DE771E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6BD30A-39CA-29C5-AC70-A28A0EB1BAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6BD30A-39CA-29C5-AC70-A28A0EB1BAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6BD30A-39CA-29C5-AC70-A28A0EB1BAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6BD30A-39CA-29C5-AC70-A28A0EB1BAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B74F628-D2E9-8E8A-2A0F-7585DE771E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B74F628-D2E9-8E8A-2A0F-7585DE771E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B74F628-D2E9-8E8A-2A0F-7585DE771E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B74F628-D2E9-8E8A-2A0F-7585DE771E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
